@@ -1,0 +1,1 @@
+Python countdown timer supporting HH:MM:SS or seconds input. Plays a custom audio alert when time is up. Built with pygame for sound playback and simple console interface for easy timer setup.
